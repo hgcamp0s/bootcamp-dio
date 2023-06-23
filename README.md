@@ -101,6 +101,18 @@
     <td><a href="https://github.com/hgcamp0s/bootcamp-dio/blob/main/02.%20Explorando%20a%20linguagem%20C%23/3.%20Nuget%2C%20Serializar%20e%20Atributos%20no%20C%23/resolucao.cs">Código</a></td>
     <td align="center">✅</td>
   </tr>
+      <tr>
+    <td align="center">4</td>
+    <td>Tipos Especiais no C#</td>
+    <td><a href="https://github.com/hgcamp0s/bootcamp-dio/blob/main/02.%20Explorando%20a%20linguagem%20C%23/4.%20Tipos%20Especiais%20no%20C%23/resolucao.cs">Código</a></td>
+    <td align="center">✅</td>
+  </tr>
+      <tr>
+    <td align="center">5</td>
+    <td>Construindo um Sistema de Hospedagem de um Hotel no C#</td>
+    <td><a href="https://github.com/hgcamp0s/bootcamp-dio/blob/main/02.%20Explorando%20a%20linguagem%20C%23/5.%20Construindo%20um%20Sistema%20de%20Hospedagem%20de%20um%20Hotel%20no%20C%23/resolucao.cs">Código</a></td>
+    <td align="center">✅</td>
+  </tr>
 </table>
 <!-- Explorando a Linguagem C# end -->
 </div>
