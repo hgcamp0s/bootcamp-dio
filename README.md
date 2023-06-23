@@ -215,5 +215,40 @@
   </tr>
 </table>
 <!-- Programação Orientada a Objetos com C# end -->
+
+<!-- Desafios Intermediários com C# II -->
+<table border=1>
+  <tr>
+    <th colspan="4">Desafios Intermediários com C# II</th>
+  </tr>
+  <tr>
+    <th colspan="4"></th>
+  </tr>
+  <tr>
+    <th>Etapa</th>
+    <th>Desafio</th>
+    <th>Solução</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td align="center">1</td>
+    <td>Maior e Posição</td>
+    <td><a href="https://github.com/hgcamp0s/bootcamp-dio/blob/main/03.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20com%20C%23/5.%20Desafios%20Intermedi%C3%A1rios%20C%23%20II/1%20-%20Maior%20e%20Posi%C3%A7%C3%A3o/resolucao.cs">Código</a></td>
+    <td align="center">✅</td>
+  </tr>
+    <tr>
+    <td align="center">2</td>
+    <td>Média 2</td>
+    <td><a href="https://github.com/hgcamp0s/bootcamp-dio/blob/main/03.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20com%20C%23/5.%20Desafios%20Intermedi%C3%A1rios%20C%23%20II/2%20-%20M%C3%A9dia%202/resolucao.cs">Código</a></td>
+    <td align="center">✅</td>
+  </tr>
+    <tr>
+    <td align="center">3</td>
+    <td>Dividindo X por Y</td>
+    <td><a href="https://github.com/hgcamp0s/bootcamp-dio/blob/main/03.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20com%20C%23/5.%20Desafios%20Intermedi%C3%A1rios%20C%23%20II/3%20-%20Dividindo%20X%20por%20Y/resolucao.cs">Código</a></td>
+    <td align="center">✅</td>
+  </tr>
+</table>
+<!-- Desafios Intermediários com C# II end -->
 </div>
 </details>
