@@ -34,6 +34,7 @@
 </table>
 <!-- Fundamentos .NET end -->
 
+<!-- Desafios Básicos com C# -->
 <table border=1>
   <tr>
     <th colspan="4">Desafios Básicos com C#</th>
@@ -66,7 +67,41 @@
     <td align="center">✅</td>
   </tr>
 </table>
+<!-- Desafios Básicos com C# end -->
 
-
+<!-- Explorando a Linguagem C# -->
+<table border=1>
+  <tr>
+    <th colspan="4">Explorando a Linguagem C#</th>
+  </tr>
+  <tr>
+    <th colspan="4"></th>
+  </tr>
+  <tr>
+    <th>Etapa</th>
+    <th>Desafio</th>
+    <th>Solução</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td align="center">1</td>
+    <td>Propriedades, Métodos e Construtores com C#</td>
+    <td><a href="https://github.com/hgcamp0s/bootcamp-dio/blob/main/02.%20Explorando%20a%20linguagem%20C%23/1.%20Propriedades%2C%20M%C3%A9todos%20e%20Construtores%20com%20C%23/resolucao.cs">Código</a></td>
+    <td align="center">✅</td>
+  </tr>
+    <tr>
+    <td align="center">2</td>
+    <td>Tuplas, Operador Ternário e Desconstrução de um Objeto com C#</td>
+    <td><a href="https://github.com/hgcamp0s/bootcamp-dio/blob/main/02.%20Explorando%20a%20linguagem%20C%23/2.%20Tuplas%2C%20Operador%20Tern%C3%A1rio%20e%20Desconstru%C3%A7%C3%A3o%20de%20um%20Objeto%20com%20C%23/resolucao.cs">Código</a></td>
+    <td align="center">✅</td>
+  </tr>
+    <tr>
+    <td align="center">3</td>
+    <td>Nuget, Serializar e Atributos no C#</td>
+    <td><a href="https://github.com/hgcamp0s/bootcamp-dio/blob/main/02.%20Explorando%20a%20linguagem%20C%23/3.%20Nuget%2C%20Serializar%20e%20Atributos%20no%20C%23/resolucao.cs">Código</a></td>
+    <td align="center">✅</td>
+  </tr>
+</table>
+<!-- Explorando a Linguagem C# end -->
 </div>
 </details>
