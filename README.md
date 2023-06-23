@@ -216,10 +216,10 @@
 </table>
 <!-- Programação Orientada a Objetos com C# end -->
 
-<!-- Desafios Intermediários com C# II -->
+<!-- Desafios Intermediários C# II -->
 <table border=1>
   <tr>
-    <th colspan="4">Desafios Intermediários com C# II</th>
+    <th colspan="4">Desafios Intermediários C# II</th>
   </tr>
   <tr>
     <th colspan="4"></th>
@@ -249,6 +249,6 @@
     <td align="center">✅</td>
   </tr>
 </table>
-<!-- Desafios Intermediários com C# II end -->
+<!-- Desafios Intermediários C# II end -->
 </div>
 </details>
