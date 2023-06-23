@@ -174,5 +174,46 @@
   </tr>
 </table>
 <!-- Desafios Intermediários C# I end -->
+
+<!-- Programação Orientada a Objetos com C# -->
+<table border=1>
+  <tr>
+    <th colspan="4">Programação Orientada a Objetos com C#</th>
+  </tr>
+  <tr>
+    <th colspan="4"></th>
+  </tr>
+  <tr>
+    <th>Etapa</th>
+    <th>Desafio</th>
+    <th>Solução</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td align="center">1</td>
+    <td>Introdução, Abstração e Encapsulamento com C#</td>
+    <td><a href="https://github.com/hgcamp0s/bootcamp-dio/blob/main/03.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20com%20C%23/1.%20Introdu%C3%A7%C3%A3o%2C%20Abstra%C3%A7%C3%A3o%20e%20Encapsulamento%20com%20C%23/resolucao.cs">Código</a></td>
+    <td align="center">✅</td>
+  </tr>
+    <tr>
+    <td align="center">2</td>
+    <td>Herança e Polimorfismo com C#</td>
+    <td><a href="https://github.com/hgcamp0s/bootcamp-dio/blob/main/03.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20com%20C%23/2.%20Heran%C3%A7a%20e%20Polimorfismo%20com%20C%23/resolucao.cs">Código</a></td>
+    <td align="center">✅</td>
+  </tr>
+    <tr>
+    <td align="center">3</td>
+    <td>Classes Abstratas e Interfaces com C#</td>
+    <td><a href="https://github.com/hgcamp0s/bootcamp-dio/blob/main/03.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20com%20C%23/3.%20Classes%20Abstratas%20e%20Interfaces%20com%20C%23/resolucao.cs">Código</a></td>
+    <td align="center">✅</td>
+  </tr>
+      <tr>
+    <td align="center">4</td>
+    <td>Criando um Sistema e Abstraindo um Celular com POO em C#</td>
+    <td><a href="https://github.com/hgcamp0s/bootcamp-dio/blob/main/03.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20com%20C%23/4.%20Criando%20um%20Sistema%20e%20Abstraindo%20um%20Celular%20com%20POO%20em%20C%23/resolucao.cs">Código</a></td>
+    <td align="center">✅</td>
+  </tr>
+</table>
+<!-- Programação Orientada a Objetos com C# end -->
 </div>
 </details>
