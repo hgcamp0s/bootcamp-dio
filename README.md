@@ -3,4 +3,21 @@
 <details>
   <summary><strong>C#</strong></summary>
   <br />
-</details>
+  <div align="left">
+  <table border=1>
+    <tr>
+      <th colspan="4">Fundamentos .NET</th>
+    </tr>
+    <tr>
+      <th colspan="4"></th>
+    </tr>
+    <tr>
+      <th>Etapa</th>
+      <th>Desafio</th>
+      <th>Solução</th>
+      <th>Status</th>
+    </tr>
+    
+  </table>
+  </div>
+  </details>
