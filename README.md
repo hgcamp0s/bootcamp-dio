@@ -115,5 +115,64 @@
   </tr>
 </table>
 <!-- Explorando a Linguagem C# end -->
+
+<!-- Desafios Intermediários C# I -->
+<table border=1>
+  <tr>
+    <th colspan="4">Desafios Intermediários C# I</th>
+  </tr>
+  <tr>
+    <th colspan="4"></th>
+  </tr>
+  <tr>
+    <th>Etapa</th>
+    <th>Desafio</th>
+    <th>Solução</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td align="center">1</td>
+    <td>Filas</td>
+    <td><a href="https://github.com/hgcamp0s/bootcamp-dio/blob/main/02.%20Explorando%20a%20linguagem%20C%23/6.%20Desafios%20Intermedi%C3%A1rios%20C%23%20I/1%20-%20Filas/resolucao.cs">Código</a></td>
+    <td align="center">✅</td>
+  </tr>
+    <tr>
+    <td align="center">2</td>
+    <td>Pilhas</td>
+    <td><a href="https://github.com/hgcamp0s/bootcamp-dio/blob/main/02.%20Explorando%20a%20linguagem%20C%23/6.%20Desafios%20Intermedi%C3%A1rios%20C%23%20I/2%20-%20Pilhas/resolucao.cs">Código</a></td>
+    <td align="center">✅</td>
+  </tr>
+    <tr>
+    <td align="center">3</td>
+    <td>Exceções</td>
+    <td><a href="https://github.com/hgcamp0s/bootcamp-dio/blob/main/02.%20Explorando%20a%20linguagem%20C%23/6.%20Desafios%20Intermedi%C3%A1rios%20C%23%20I/3%20-%20Exce%C3%A7%C3%B5es/resolucao.cs">Código</a></td>
+    <td align="center">✅</td>
+  </tr>
+      <tr>
+    <td align="center">4</td>
+    <td>Dictionary</td>
+    <td><a href="https://github.com/hgcamp0s/bootcamp-dio/blob/main/02.%20Explorando%20a%20linguagem%20C%23/6.%20Desafios%20Intermedi%C3%A1rios%20C%23%20I/4%20-%20Dictionary/resolucao.cs">Código</a></td>
+    <td align="center">✅</td>
+  </tr>
+      <tr>
+    <td align="center">5</td>
+    <td>Idade em Dias</td>
+    <td><a href="https://github.com/hgcamp0s/bootcamp-dio/blob/main/02.%20Explorando%20a%20linguagem%20C%23/6.%20Desafios%20Intermedi%C3%A1rios%20C%23%20I/5%20-%20Idade%20em%20Dias/resolucao.cs">Código</a></td>
+    <td align="center">✅</td>
+  </tr>
+        <tr>
+    <td align="center">6</td>
+    <td>Conversão de Tempo</td>
+    <td><a href="https://github.com/hgcamp0s/bootcamp-dio/blob/main/02.%20Explorando%20a%20linguagem%20C%23/6.%20Desafios%20Intermedi%C3%A1rios%20C%23%20I/6%20-%20Convers%C3%A3o%20de%20Tempo/resolucao.cs">Código</a></td>
+    <td align="center">✅</td>
+  </tr>
+        <tr>
+    <td align="center">7</td>
+    <td>Tempo do Dobby</td>
+    <td><a href="https://github.com/hgcamp0s/bootcamp-dio/blob/main/02.%20Explorando%20a%20linguagem%20C%23/6.%20Desafios%20Intermedi%C3%A1rios%20C%23%20I/7%20-%20Tempo%20do%20Dobby/resolucao.cs">Código</a></td>
+    <td align="center">✅</td>
+  </tr>
+</table>
+<!-- Desafios Intermediários C# I end -->
 </div>
 </details>
