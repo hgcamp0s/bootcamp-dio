@@ -250,5 +250,34 @@
   </tr>
 </table>
 <!-- Desafios Intermediários C# II end -->
+
+<!-- Integrando APIs NET C# com Entity Framework -->
+<table border=1>
+  <tr>
+    <th colspan="4">Integrando APIS NET C# com Entity Framework</th>
+  </tr>
+  <tr>
+    <th colspan="4"></th>
+  </tr>
+  <tr>
+    <th>Etapa</th>
+    <th>Desafio</th>
+    <th>Solução</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td align="center">1</td>
+    <td>CRUD - Web API</td>
+    <td><a href="https://github.com/hgcamp0s/bootcamp-dio/blob/main/C%23/04.%20Integrando%20APIs%20NET%20C%23%20com%20Entity%20Framework/1.%20ModuloAPI/Controllers/ContatoController.cs">Código</a></td>
+    <td align="center">✅</td>
+  </tr>
+  <tr>
+    <td align="center">2</td>
+    <td>CRUD - ASP.NET MVC</td>
+    <td><a href="https://github.com/hgcamp0s/bootcamp-dio/blob/main/C%23/04.%20Integrando%20APIs%20NET%20C%23%20com%20Entity%20Framework/2.%20ProjetoMVC/Controllers/ContatoController.cs">Código</a></td>
+    <td align="center">✅</td>
+  </tr>
+</table>
+<!-- Integrando APIs NET C# com Entity Framework end -->
 </div>
 </details>
