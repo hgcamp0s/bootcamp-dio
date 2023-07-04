@@ -26,7 +26,7 @@ class ExemploHerPoli
         // p1.Salario = 1000;
         // p1.Apresentar();
 
-        // Pessoa p1 = new Pessoa();
+        // Humano p1 = new Humano();
 
         // p1.Nome = "Hugo";
         // p1.Idade = 27;
