@@ -8,7 +8,7 @@
 <!-- Fundamentos .NET -->
 <table border=1>
     <tr>
-      <th colspan="4">Fundamentos .NET</th>
+      <th colspan="4">1. Fundamentos .NET</th>
     </tr>
     <tr>
       <th colspan="4"></th>
@@ -72,7 +72,7 @@
 <!-- Explorando a Linguagem C# -->
 <table border=1>
   <tr>
-    <th colspan="4">Explorando a Linguagem C#</th>
+    <th colspan="4">2. Explorando a Linguagem C#</th>
   </tr>
   <tr>
     <th colspan="4"></th>
@@ -178,7 +178,7 @@
 <!-- Programação Orientada a Objetos com C# -->
 <table border=1>
   <tr>
-    <th colspan="4">Programação Orientada a Objetos com C#</th>
+    <th colspan="4">3. Programação Orientada a Objetos com C#</th>
   </tr>
   <tr>
     <th colspan="4"></th>
@@ -254,7 +254,7 @@
 <!-- Integrando APIs NET C# com Entity Framework -->
 <table border=1>
   <tr>
-    <th colspan="4">Integrando APIS NET C# com Entity Framework</th>
+    <th colspan="4">4. Integrando APIS NET C# com Entity Framework</th>
   </tr>
   <tr>
     <th colspan="4"></th>
