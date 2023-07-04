@@ -254,7 +254,7 @@
 <!-- Integrando APIs NET C# com Entity Framework -->
 <table border=1>
   <tr>
-    <th colspan="4">4. Integrando APIS NET C# com Entity Framework</th>
+    <th colspan="4">4. Integrando APIs NET C# com Entity Framework</th>
   </tr>
   <tr>
     <th colspan="4"></th>
